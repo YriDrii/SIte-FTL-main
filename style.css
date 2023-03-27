@@ -388,8 +388,9 @@ h1 , h2 , h3 {
 
 .title-large {
   height: 130px;
-  margin-left: -5px;
   opacity: 0.1;
+  margin-left: -5px;
+
 }
 
 .img-container {
