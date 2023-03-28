@@ -358,6 +358,8 @@
 
 h1 , h2 , h3 {
   color: white;
+  margin-left: 10%;
+  margin-right: 10%;
 }
 
 * {
@@ -386,12 +388,7 @@ h1 , h2 , h3 {
   font-weight: 600;
 }
 
-.title-large {
-  height: 130px;
-  opacity: 0.1;
-  margin-left: -5px;
 
-}
 
 .img-container {
   display: inline-block;
@@ -444,7 +441,6 @@ h1 , h2 , h3 {
 
 .nba {
   margin-top: -20px;
-  
 }
 
 @keyframes flow {
@@ -486,6 +482,8 @@ h1 , h2 , h3 {
   font-size: larger;
   font-family: cursive;
   margin-top: 5%;
+  margin-left: 5%;
+  margin-right: 5%;
   color: white;
 }
 
@@ -496,6 +494,8 @@ h1 , h2 , h3 {
   font-size: larger;
   font-family: cursive;
   margin-top: 5%;
+  margin-left: 5%;
+  margin-right: 5%;
   color: white;
 }
 
@@ -506,6 +506,8 @@ h1 , h2 , h3 {
   font-size: larger;
   font-family: cursive;
   margin-top: 5%;
+  margin-left: 5%;
+  margin-right: 5%;
   color: white;
 }
 
